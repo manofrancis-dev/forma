@@ -1,0 +1,67 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta name="theme-color" content="#f7f6f2" />
+    <title>Forma — Everyday fashion online shopping | Mano Francis Dev</title>
+    <meta name="description" content="Forma is an online shopping store for everyday fashion, designed by Mano Francis Dev. Shop clothing for women, men, and kids." />
+    <meta name="author" content="Mano Francis Dev" />
+    <meta name="robots" content="index, follow" />
+    <link rel="canonical" href="https://manofrancis-dev.github.io/forma/" />
+    <meta property="og:type" content="website" />
+    <meta property="og:site_name" content="Forma" />
+    <meta property="og:title" content="Forma — Everyday fashion online shopping | Mano Francis Dev" />
+    <meta property="og:description" content="Forma is an online shopping store for everyday fashion, designed by Mano Francis Dev. Shop clothing for women, men, and kids." />
+    <meta property="og:url" content="https://manofrancis-dev.github.io/forma/" />
+    <meta property="og:image" content="https://images.unsplash.com/photo-1483985988355-763728e1935b?auto=format&fit=crop&w=1200&q=80" />
+    <meta name="twitter:card" content="summary_large_image" />
+    <meta name="twitter:title" content="Forma — Everyday fashion online shopping | Mano Francis Dev" />
+    <meta name="twitter:description" content="Forma is an online shopping store for everyday fashion, designed by Mano Francis Dev." />
+    <meta name="twitter:image" content="https://images.unsplash.com/photo-1483985988355-763728e1935b?auto=format&fit=crop&w=1200&q=80" />
+    <script type="application/ld+json">
+      {
+        "@context": "https://schema.org",
+        "@graph": [
+          {
+            "@type": "OnlineStore",
+            "name": "Forma",
+            "url": "https://manofrancis-dev.github.io/forma/",
+            "description": "Online shopping for everyday fashion, designed by Mano Francis Dev.",
+            "image": "https://images.unsplash.com/photo-1483985988355-763728e1935b?auto=format&fit=crop&w=1200&q=80"
+          },
+          {
+            "@type": "Person",
+            "name": "Mano Francis",
+            "alternateName": ["Mano Francis Dev", "manofrancis", "mano francis dev"],
+            "jobTitle": "Designer and developer",
+            "url": "https://manofrancis-dev.github.io/manofrancis-portfolio/",
+            "sameAs": [
+              "https://manofrancis-dev.github.io/manofrancis-portfolio/",
+              "https://in.linkedin.com/in/manofrancis-dev",
+              "https://github.com/manofrancis-dev"
+            ]
+          }
+        ]
+      }
+    </script>
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link href="https://fonts.googleapis.com/css2?family=DM+Sans:wght@400;500;600;700&family=Manrope:wght@400;500;600;700;800&display=swap" rel="stylesheet" />
+  </head>
+  <body>
+    <div id="root"><div class="boot-screen"><span class="boot-mark">forma<span>.</span></span><p>Preparing your considered home…</p></div></div>
+    <script>
+      window.addEventListener('error', function (event) {
+        var root = document.getElementById('root');
+        if (root && !root.dataset.appMounted) root.innerHTML = '<div class="boot-screen boot-error"><span class="boot-mark">forma<span>.</span></span><h1>The storefront could not start.</h1><p>' + String(event.message || 'A browser error occurred.').replace(/[<>&]/g, '') + '</p><small>Open DevTools → Console for the full error, then refresh after the fix.</small></div>';
+      });
+      window.addEventListener('unhandledrejection', function (event) {
+        var root = document.getElementById('root');
+        var reason = event.reason && (event.reason.message || event.reason);
+        if (root && !root.dataset.appMounted) root.innerHTML = '<div class="boot-screen boot-error"><span class="boot-mark">forma<span>.</span></span><h1>The storefront could not start.</h1><p>' + String(reason || 'An asynchronous browser error occurred.').replace(/[<>&]/g, '') + '</p><small>Open DevTools → Console for the full error, then refresh after the fix.</small></div>';
+      });
+    </script>
+    <script type="module" src="/src/main.jsx"></script>
+  </body>
+</html>
