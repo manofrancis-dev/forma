@@ -1,8 +1,59 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
     <loc>https://manofrancis-dev.github.io/forma/</loc>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
+    <image:image>
+      <image:loc>https://images.unsplash.com/photo-1483985988355-763728e1935b?auto=format&amp;fit=crop&amp;w=1500&amp;q=90</image:loc>
+      <image:title>Forma everyday fashion collection</image:title>
+      <image:caption>Everyday fashion by Forma, designed by Mano Francis Dev.</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://images.unsplash.com/photo-1617137968427-85924c800a22?auto=format&amp;fit=crop&amp;w=900&amp;q=85</image:loc>
+      <image:title>Easy Day Overshirt</image:title>
+      <image:caption>Olive cotton overshirt for men. Everyday fashion by Forma.</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://images.unsplash.com/photo-1496747611176-843222e1e57c?auto=format&amp;fit=crop&amp;w=900&amp;q=85</image:loc>
+      <image:title>Soft Rib Knit Dress</image:title>
+      <image:caption>Cocoa rib-knit dress for women. Everyday fashion by Forma.</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://images.unsplash.com/photo-1503919545889-aef636e10ad4?auto=format&amp;fit=crop&amp;w=900&amp;q=85</image:loc>
+      <image:title>Weekend Cargo Joggers</image:title>
+      <image:caption>Stone cargo joggers for boys. Everyday fashion by Forma.</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://images.unsplash.com/photo-1471286174890-9c112ffca5b4?auto=format&amp;fit=crop&amp;w=900&amp;q=85</image:loc>
+      <image:title>Garden Party Co-ord</image:title>
+      <image:caption>Blush floral co-ord for girls. Everyday fashion by Forma.</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://images.unsplash.com/photo-1545558014-8692077e9b5c?auto=format&amp;fit=crop&amp;w=900&amp;q=85</image:loc>
+      <image:title>Cloud Soft Cotton Set</image:title>
+      <image:caption>Sky blue cotton set for kids. Everyday fashion by Forma.</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://images.unsplash.com/photo-1541099649105-f69ad21f3246?auto=format&amp;fit=crop&amp;w=900&amp;q=85</image:loc>
+      <image:title>Everyday Straight Denim</image:title>
+      <image:caption>Vintage blue jeans for women. Everyday fashion by Forma.</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://images.unsplash.com/photo-1578768079052-aa76e52ff62e?auto=format&amp;fit=crop&amp;w=900&amp;q=85</image:loc>
+      <image:title>Classic Crew Sweatshirt</image:title>
+      <image:caption>Oatmeal crew sweatshirt for men. Everyday fashion by Forma.</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://images.unsplash.com/photo-1519278409-1f56f8f9a2ec?auto=format&amp;fit=crop&amp;w=900&amp;q=85</image:loc>
+      <image:title>Mini Adventure Tee Pack</image:title>
+      <image:caption>Cotton tee pack for kids. Everyday fashion by Forma.</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://images.unsplash.com/photo-1529139574466-a303027c1d8b?auto=format&amp;fit=crop&amp;w=1100&amp;q=85</image:loc>
+      <image:title>Everyday fashion portrait</image:title>
+      <image:caption>Everyday fashion portrait for Forma by Mano Francis Dev.</image:caption>
+    </image:image>
   </url>
 </urlset>
